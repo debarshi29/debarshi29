@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=99999&color=F0A500&center=true&vCenter=true&repeat=false&width=500&height=55&lines=debarshi+chakraborty" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=99999&color=F0A500&center=true&vCenter=true&repeat=false&width=520&height=55&lines=debarshi+chakraborty" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2000&pause=99999&color=888888&center=true&vCenter=true&repeat=false&width=500&height=30&lines=M.Sc.+Big+Data+Analytics+%C2%B7+RKMVERI" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2000&pause=99999&color=C87800&center=true&vCenter=true&repeat=false&width=600&height=30&lines=building+production+systems+%C2%B7+IEEE+published+%C2%B7+mech+interp+on+graph+models" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3000&pause=99999&color=666666&center=true&vCenter=true&repeat=false&width=520&height=28&lines=mechanistic+interpretability+%C2%B7+distributed+systems+%C2%B7+multi-agent" />
 
 <br/>
 
@@ -29,14 +27,11 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=py,java,rust,sqlite&theme=dark)](https://skillicons.dev)
+[![langs](https://skillicons.dev/icons?i=py,java,rust,sqlite&theme=dark&perline=4)](https://skillicons.dev)
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logoColor=f0a500)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logoColor=f0a500)
-![Rust](https://img.shields.io/badge/Rust-0d0d0d?style=flat-square&logoColor=f0a500)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logoColor=f0a500)
+`Python` &nbsp;·&nbsp; `Java` &nbsp;·&nbsp; `Rust` &nbsp;·&nbsp; `SQL`
 
 </div>
 
@@ -52,22 +47,15 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,fastapi,flask,django&theme=dark)](https://skillicons.dev)
+[![ml](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,fastapi,flask,django&theme=dark&perline=6)](https://skillicons.dev)
 
 <br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logoColor=f0a500)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logoColor=f0a500)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logoColor=f0a500)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=flat-square&logoColor=f0a500)
-![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logoColor=f0a500)
-![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logoColor=f0a500)
+`PyTorch` &nbsp;·&nbsp; `scikit-learn` &nbsp;·&nbsp; `OpenCV` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `Django`
 
-<br/><br/>
+<br/>
 
-```
-LangGraph · LangChain · Semantic Kernel · LangFuse · pgvector · Qdrant · MCP · A2A
-```
+`LangGraph` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `Semantic Kernel` &nbsp;·&nbsp; `LangFuse` &nbsp;·&nbsp; `pgvector` &nbsp;·&nbsp; `Qdrant` &nbsp;·&nbsp; `MCP` &nbsp;·&nbsp; `A2A`
 
 </div>
 
@@ -83,21 +71,15 @@ LangGraph · LangChain · Semantic Kernel · LangFuse · pgvector · Qdrant · M
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=azure,docker,kubernetes,redis,postgres&theme=dark)](https://skillicons.dev)
+[![cloud](https://skillicons.dev/icons?i=azure,docker,kubernetes,redis,postgres&theme=dark&perline=5)](https://skillicons.dev)
 
 <br/>
 
-![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=flat-square&logoColor=f0a500)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logoColor=f0a500)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=flat-square&logoColor=f0a500)
-![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logoColor=f0a500)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logoColor=f0a500)
+`Azure` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Kubernetes` &nbsp;·&nbsp; `Redis` &nbsp;·&nbsp; `PostgreSQL`
 
-<br/><br/>
+<br/>
 
-```
-Databricks · Delta Lake · Unity Catalog · MLflow · AKS · Dask
-```
+`Databricks` &nbsp;·&nbsp; `Delta Lake` &nbsp;·&nbsp; `MLflow` &nbsp;·&nbsp; `Unity Catalog` &nbsp;·&nbsp; `AKS`
 
 </div>
 
@@ -113,20 +95,15 @@ Databricks · Delta Lake · Unity Catalog · MLflow · AKS · Dask
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4)](https://skillicons.dev)
 
 <br/>
 
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logoColor=f0a500)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logoColor=f0a500)
-![VSCode](https://img.shields.io/badge/VS+Code-0d0d0d?style=flat-square&logoColor=f0a500)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logoColor=f0a500)
+`Git` &nbsp;·&nbsp; `GitHub` &nbsp;·&nbsp; `VS Code` &nbsp;·&nbsp; `Linux`
 
-<br/><br/>
+<br/>
 
-```
-PySpark · Pandas · Polars · NumPy · dbt · Weaviate · Streamlit · Hadoop
-```
+`PySpark` &nbsp;·&nbsp; `Pandas` &nbsp;·&nbsp; `Polars` &nbsp;·&nbsp; `NumPy` &nbsp;·&nbsp; `dbt` &nbsp;·&nbsp; `Dask` &nbsp;·&nbsp; `Streamlit` &nbsp;·&nbsp; `Weaviate`
 
 </div>
 
@@ -142,13 +119,25 @@ PySpark · Pandas · Polars · NumPy · dbt · Weaviate · Streamlit · Hadoop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=debarshi29&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=f0a500&icon_color=c87800&text_color=888888&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-stats.svg" />
+  <img src="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-stats-dark.svg" height="160" />
+</picture>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi29&layout=compact&theme=dark&bg_color=0d0d0d&title_color=f0a500&text_color=888888&hide_border=true&langs_count=6" height="160"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-langs.svg" />
+  <img src="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-langs-dark.svg" height="160" />
+</picture>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=debarshi29&bg_color=0d0d0d&color=f0a500&line=f0a500&point=ffffff&area=true&area_color=2d1800&hide_border=true&custom_title=contribution+activity" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:2d1800,60:2d1800,100:0d0d0d&height=130&text=debarshi29&fontAlign=50&fontAlignY=55&fontSize=32&fontColor=f0a500&animation=fadeIn&desc=mechanistic+interpretability+%C2%B7+distributed+systems+%C2%B7+multi-agent&descAlignY=75&descSize=12&descColor=888888" />
 
 </div>
 
