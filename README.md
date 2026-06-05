@@ -119,17 +119,13 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-stats.svg" />
-  <img src="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-stats-dark.svg" height="160" />
-</picture>
+![followers](https://img.shields.io/github/followers/debarshi29?style=flat-square&color=f0a500&labelColor=1a0f00&label=followers)
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-langs-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-langs.svg" />
-  <img src="https://raw.githubusercontent.com/debarshi29/debarshi29/output/github-langs-dark.svg" height="160" />
-</picture>
+![stars](https://img.shields.io/github/stars/debarshi29?style=flat-square&color=f0a500&labelColor=1a0f00&label=stars&affiliations=OWNER)
+&nbsp;
+![repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdebarshi29&query=%24.public_repos&style=flat-square&color=f0a500&labelColor=1a0f00&label=repos)
+&nbsp;
+![IEEE](https://img.shields.io/badge/IEEE-1_publication-f0a500?style=flat-square&labelColor=1a0f00)
 
 <br/><br/>
 
