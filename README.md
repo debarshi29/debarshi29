@@ -40,12 +40,29 @@ debarshi = {
 
 ## ⚡ What I'm Working On
 
-| Project | Stack | Status |
-|---|---|---|
-| **THGNN-MaGNet** — GNN + 6-agent LangGraph pipeline on NIFTY 500 | PyTorch · LangGraph · FinBERT · Streamlit | 🔬 Active |
-| **A2A Multi-Agent Retail AI** — orchestrator + MCP tool servers + Redis memory | LangGraph · pgvector · Langfuse · AKS | ✅ Production |
-| **Mech Interp Roadmap** — TransformerLens, SAEs, ARENA curriculum | Python · TransformerLens · Neel Nanda exercises | 📖 Ongoing |
-| **DeepSeek / Lab Interview Prep** — Anthropic, OpenAI, DeepMind problem banks | Jupyter · PyTorch | 🧠 Long game |
+```yaml
+# june 2026
+
+THGNN-MaGNet:
+  what: GNN + 6-agent LangGraph pipeline on NIFTY 500
+  stack: [PyTorch, LangGraph, FinBERT, Streamlit, Hypergraph Learning]
+  status: ACTIVE — pushing rank-IC past 0.04
+
+A2A_Multi_Agent_Retail_AI:
+  what: orchestrator + MCP tool servers + Redis cross-agent memory
+  stack: [LangGraph, pgvector, Langfuse, AKS, Azure OpenAI]
+  status: PRODUCTION — live at Rezolve
+
+Mech_Interp_Roadmap:
+  what: TransformerLens, SAEs, ARENA curriculum, circuits literature
+  stack: [Python, TransformerLens, Neel Nanda 200 exercises]
+  status: ONGOING — long game, GNN interp is my angle
+
+Lab_Interview_Prep:
+  what: Anthropic / OpenAI / DeepMind problem banks as Jupyter notebooks
+  stack: [PyTorch, JAX, math]
+  status: BACKGROUND — 2027 horizon
+```
 
 ---
 
@@ -58,7 +75,7 @@ debarshi = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **AI / ML / GenAI**
 
@@ -134,15 +151,17 @@ debarshi = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debarshi29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debarshi29&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff)](https://github.com/debarshi29)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi29&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=debarshi29&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=debarshi29&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
 
@@ -176,6 +195,14 @@ debarshi = {
 > **Real-Time Trade Settlement for the US Market using Blockchain and AI**
 > *IEEE WCONF 2025 — 3rd World Conference on Communication & Computing*
 > DOI: [10.1109/WCONF64849.2025.11233239](https://doi.org/10.1109/WCONF64849.2025.11233239)
+
+---
+
+## 💬 Philosophy
+
+> *"I'm drawn to the gap between what neural networks do and **why** they do it."*
+
+> *"0% or 100%. Nothing in between."*
 
 ---
 
