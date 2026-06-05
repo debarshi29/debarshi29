@@ -1,10 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Debarshi+Chakraborty;multi-agent+systems+%C2%B7+GNNs+%C2%B7+mech+interp)](https://debarshi29.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=debarshi+chakraborty;multi-agent+systems;mechanistic+interpretability;distributed+systems)](https://debarshi29.github.io)
 
-</div>
-
-<div align="center">
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/↗_portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://debarshi29.github.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/debarshi29)
@@ -15,120 +13,168 @@
 
 <br/>
 
-```
-M.Sc. Big Data Analytics · RKMVERI
-building things that think · understanding why they think that way
-```
-
-<br/>
-
 ---
 
-## `> whoami`
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi29&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+
+### `> whoami`
 
 ```python
 debarshi = {
-    "building"    : ["A2A multi-agent systems", "LLM infrastructure", "agentic workflows"],
-    "researching" : ["mechanistic interpretability", "GNN theory", "hypergraph learning"],
-    "obsessed_with": "the gap between what neural networks do and *why* they do it",
-    "currently"   : "RKMVERI → world",
+  "degree"  : "M.Sc. Big Data Analytics · RKMVERI",
+  "domains" : [
+      "multi-agent systems",
+      "mechanistic interpretability",
+      "distributed systems",
+  ],
+  "question": "what neural networks do — and *why*",
+  "signal"  : "0% or 100%",
 }
 ```
 
----
-
-## `> ls projects/`
-
-<br/>
-
-**[`🧠`  THGNN-MaGNet](https://github.com/debarshi29)** &nbsp;·&nbsp; *hypergraph GNN + 6-agent LangGraph on NIFTY 500*
-
-```
-rank-IC  +95% over baseline   ICIR  0.420   Sharpe  3.71   holdout  583 days
-```
-BiGRU MAGE encoder · Sparse MoE · Temporal-Causal Hypergraph · differentiable Spearman IC loss  
-→ GNN inference · FinBERT sentiment · portfolio fusion · risk profiler · macro regime · LLM report (Gemma-4-31b)
-
-`PyTorch` `LangGraph` `FinBERT` `Hypergraph Learning` `Streamlit`
-
-<br/>
-
-**[`⛓️`  T+0 Trade Settlement](https://doi.org/10.1109/WCONF64849.2025.11233239)** &nbsp;·&nbsp; *IEEE WCONF 2025*
-
-```
-settlement finality  < 2s   counterparty risk reduction  91.7%   consensus  IBFT-2
-```
-4-node Hyperledger Besu · LangGraph state machines (Llama 3.2) · XGBoost off-chain fraud detection  
-→ SHAP + LIME explainability on every scored trade
-
-`Hyperledger Besu` `LangGraph` `XGBoost` `XAI`
-
-<br/>
-
-**[`🤖`  NET-LINK](https://github.com/debarshi29/Deep-Reinforcement-Learning-DA346/tree/main/DRL_Final%20Project)** &nbsp;·&nbsp; *self-healing drone swarms via MARL*
-
-```
-agents  5   emergent coordination  ~1,200 episodes   handoff rules programmed  0
-```
-MAPPO · shared centralized critic · decentralized execution · 3D physics + energy constraints  
-→ agents independently learned to pass coverage zones as peers hit energy thresholds
-
-`MAPPO` `MARL` `PyTorch` `Gymnasium`
-
-<br/>
-
-**[`⚡`  Distributed LLM Inference](https://github.com/debarshi29/Distributed-Large-Language-Models)** &nbsp;·&nbsp; *DeepSeek R1 + Llama 3.2B*
-
-```
-throughput  2–4×   strategy  tensor + pipeline parallelism   kernel  CUDA overlapped comms
-```
-
-`Rust` `CUDA` `Python` `Tensor Parallelism`
+<br clear="right"/>
 
 ---
 
-## `> cat stack.txt`
+### `> ls -la projects/`
+
+<br/>
+
+<details open>
+<summary><b>🧠 THGNN-MaGNet</b> &nbsp;·&nbsp; hypergraph GNN + 6-agent LangGraph · NIFTY 500</summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  rank-IC   0.0398   (+95% baseline)                         │
+│  ICIR      0.420                                            │
+│  Sharpe    3.71     (annualised, 583-day holdout)           │
+│  latency   ~47s     end-to-end inference                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Architecture:** BiGRU MAGE encoder → Sparse MoE routing → TCH + GPH dual hypergraph → differentiable Spearman IC loss  
+**Pipeline:** `GNN` → `FinBERT sentiment` → `portfolio fusion (α-weighted)` → `risk profiler` → `macro regime` → `Gemma-4-31b report`
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=58a6ff)
+![FinBERT](https://img.shields.io/badge/FinBERT-0d1117?style=flat-square&logo=huggingface&logoColor=58a6ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=58a6ff)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>⛓️ T+0 Trade Settlement</b> &nbsp;·&nbsp; blockchain-native · <a href="https://doi.org/10.1109/WCONF64849.2025.11233239">IEEE WCONF 2025</a></summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  finality          < 2s    (IBFT-2 BFT consensus)           │
+│  risk reduction    91.7%   (vs baseline settlement)         │
+│  network           4-node Hyperledger Besu                  │
+│  compliance        LangGraph state machines · Llama 3.2     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Fraud:** XGBoost scores every trade off-chain before it touches the ledger → SHAP + LIME surface the why
+
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Besu-0d1117?style=flat-square&logo=hyperledger&logoColor=58a6ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=58a6ff)
+![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=flat-square&logo=xgboost&logoColor=58a6ff)
+![SHAP](https://img.shields.io/badge/SHAP+LIME-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>⚡ Distributed LLM Inference</b> &nbsp;·&nbsp; DeepSeek R1 + Llama 3.2B</summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  throughput   2–4×    over single-GPU baseline              │
+│  strategy     tensor parallelism + pipeline parallelism     │
+│  kernels      CUDA — comms overlapped with compute          │
+│  interface    Python bindings                               │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=58a6ff)
+![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=flat-square&logo=nvidia&logoColor=58a6ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🤖 NET-LINK</b> &nbsp;·&nbsp; self-healing drone swarms · MARL</summary>
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  agents       5     (shared critic, decentralized exec)     │
+│  emergence    ~1200 episodes to relay-passing coordination  │
+│  rules        0     no handoff logic was programmed         │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![MAPPO](https://img.shields.io/badge/MAPPO-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0d1117?style=flat-square&logo=openaigym&logoColor=58a6ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff)
+
+</details>
+
+---
+
+### `> cat stack.conf`
 
 <div align="center">
 
-| layer | tools |
-|---|---|
-| **languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff) ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff) ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff) ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=58a6ff) |
-| **genai / ml** | ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff) ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=58a6ff) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=58a6ff) ![SK](https://img.shields.io/badge/Semantic_Kernel-0d1117?style=flat-square&logo=microsoft&logoColor=58a6ff) ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=58a6ff) |
-| **cloud / infra** | ![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=58a6ff) ![Databricks](https://img.shields.io/badge/Databricks-0d1117?style=flat-square&logo=databricks&logoColor=58a6ff) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff) ![K8s](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=58a6ff) ![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=58a6ff) |
-| **data** | ![Spark](https://img.shields.io/badge/PySpark-0d1117?style=flat-square&logo=apachespark&logoColor=58a6ff) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff) ![Polars](https://img.shields.io/badge/Polars-0d1117?style=flat-square&logo=polars&logoColor=58a6ff) ![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff) |
+```
+languages   python · java · rust · sql
+────────────────────────────────────────────────────────────
+genai       pytorch · langgraph · langchain · semantic kernel
+            mlflow · langfuse · pgvector · qdrant
+────────────────────────────────────────────────────────────
+cloud       azure · databricks · docker · kubernetes · redis
+────────────────────────────────────────────────────────────
+data        pyspark · pandas · polars · dbt · delta lake
+────────────────────────────────────────────────────────────
+research    transformerlens · huggingface · gymnasium · shap
+```
 
 </div>
 
 ---
 
-## `> cat roadmap.txt`
-
-```
-2026
-├── certs
-│   ├── Databricks Data Engineer Associate          Q3
-│   ├── Databricks Data Engineer Professional       Q4
-│   └── Azure DP-203 / AI-102                       Q4
-│
-├── research
-│   ├── TransformerLens + Neel Nanda 200 exercises
-│   ├── ARENA (SAEs, activation patching, circuits)
-│   └── mech interp on GNNs  ← largely open problem, my angle
-│
-└── engineering
-    ├── Delta Lake / medallion architecture
-    ├── dbt + Databricks Workflows + Unity Catalog
-    └── Semantic Kernel @ production scale
-```
-
----
-
-## `> git log --oneline`
+### `> git log --stat`
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=debarshi29&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb)](https://github.com/debarshi29)
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=debarshi29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&include_all_commits=true&count_private=true)
+
+</td>
+<td>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=debarshi29&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+
+</td>
+</tr>
+</table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=debarshi29&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/debarshi29)
 
 ![](https://komarev.com/ghpvc/?username=debarshi29&color=1f6feb&style=flat-square&label=profile+views)
 
@@ -139,8 +185,8 @@ throughput  2–4×   strategy  tensor + pipeline parallelism   kernel  CUDA ove
 <div align="center">
 
 ```
-// if you're working on interpretability, multi-agent systems,
-// or just want to collide ideas — find me.
+// working on interpretability · multi-agent systems · distributed inference
+// find me if any of that overlaps with what you're building
 ```
 
 [![↗ debarshi29.github.io](https://img.shields.io/badge/↗_debarshi29.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://debarshi29.github.io)
