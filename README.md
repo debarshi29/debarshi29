@@ -1,36 +1,25 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a00,100:2d1500&height=140&section=header&text=debarshi%20chakraborty&fontSize=38&fontColor=f0a500&fontAlignY=60&animation=fadeIn" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=700&height=28&lines=mechanistic+interpretability+%C2%B7+multi-agent+systems+%C2%B7+distributed+systems" />
-
 <br/>
-
 [![](https://img.shields.io/badge/portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=f0a500)](https://debarshi29.github.io)
 [![](https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=f0a500)](https://linkedin.com/in/debarshi29)
 [![](https://img.shields.io/badge/IEEE-0d0d0d?style=for-the-badge&logo=ieee&logoColor=f0a500)](https://doi.org/10.1109/WCONF64849.2025.11233239)
 [![](https://img.shields.io/badge/mail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=f0a500)](mailto:debarshi2933@gmail.com)
-
 <br/>
-
 ![](https://img.shields.io/badge/AI%2FML%20Engineer-Rezolve%20AI-f0a500?style=flat-square&labelColor=1a0a00)
-
 </div>
-
 <br/>
 
 ---
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=py,java,rust,pytorch,sklearn,opencv&theme=dark&perline=6" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,redis,postgres,git&theme=dark&perline=6" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,github,vscode,linux&theme=dark&perline=6" />
-
 <br/>
-
 [![](https://img.shields.io/badge/LangGraph-1a0a00?style=flat-square&logo=langchain&logoColor=f0a500)](https://github.com/debarshi29)
 [![](https://img.shields.io/badge/LangChain-1a0a00?style=flat-square&logo=langchain&logoColor=f0a500)](https://github.com/debarshi29)
 [![](https://img.shields.io/badge/Semantic%20Kernel-1a0a00?style=flat-square&logo=microsoft&logoColor=f0a500)](https://github.com/debarshi29)
@@ -41,21 +30,15 @@
 [![](https://img.shields.io/badge/dbt-1a0a00?style=flat-square&logo=dbt&logoColor=f0a500)](https://github.com/debarshi29)
 [![](https://img.shields.io/badge/Delta%20Lake-1a0a00?style=flat-square&logo=databricks&logoColor=f0a500)](https://github.com/debarshi29)
 [![](https://img.shields.io/badge/MCP-1a0a00?style=flat-square&logoColor=f0a500)](https://github.com/debarshi29)
-
 </div>
-
 <br/>
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=debarshi29&bg_color=0d0d0d&color=f0a500&line=f0a500&point=ffffff&area=true&area_color=1a0a00&hide_border=true&custom_title=contribution+activity&title_color=f0a500" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=debarshi29&show_icons=true&bg_color=0d0d0d&title_color=f0a500&text_color=cccccc&icon_color=f0a500&border_color=1a0a00&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi29&layout=compact&bg_color=0d0d0d&title_color=f0a500&text_color=cccccc&border_color=1a0a00&hide_border=true&langs_count=6" />
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=debarshi29&color=f0a500&style=flat-square&label=views" />
-
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1500,50:1a0a00,100:0d0d0d&height=100&section=footer" />
