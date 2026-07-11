@@ -33,14 +33,4 @@
 </div>
 <br/>
 
----
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=debarshi29&show_icons=true&bg_color=0d0d0d&title_color=f0a500&text_color=cccccc&icon_color=f0a500&border_color=1a0a00&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarshi29&layout=compact&bg_color=0d0d0d&title_color=f0a500&text_color=cccccc&border_color=1a0a00&hide_border=true&langs_count=6" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=debarshi29&background=0d0d0d&ring=f0a500&fire=f0a500&currStreakLabel=f0a500&sideLabels=cccccc&currStreakNum=f0a500&sideNums=cccccc&dates=666666&hide_border=true" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=debarshi29&color=f0a500&style=flat-square&label=views" />
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1500,50:1a0a00,100:0d0d0d&height=100&section=footer" />
