@@ -19,7 +19,7 @@
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,redis,postgres,git&theme=dark&perline=6" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,numpy,pandas,github,vscode,linux&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,postman,github,vscode,linux&theme=dark&perline=6" />
 <br/><br/>
 <a href="https://github.com/debarshi29"><img src="https://img.shields.io/badge/LangGraph-1a0a00?style=flat-square&logo=langchain&logoColor=ff6b4a" /></a>
 <a href="https://github.com/debarshi29"><img src="https://img.shields.io/badge/LangChain-1a0a00?style=flat-square&logo=langchain&logoColor=ff6b4a" /></a>
