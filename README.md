@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/debarshi29"><img src="https://img.shields.io/badge/linkedin-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff6b4a" /></a>
 <a href="mailto:debarshi2933@gmail.com"><img src="https://img.shields.io/badge/mail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff6b4a" /></a>
 <br/><br/>
-<img src="https://img.shields.io/badge/GenAI%20Engineer-Ernst%20%26%20Young%20LLP-ff6b4a?style=flat-square&labelColor=1a0a00" />
+<img src="https://img.shields.io/badge/Associate%20Consultant%20@%20EY-GenAI%20Engineer-1a0a00?style=flat-square&labelColor=ff6b4a" />
 &nbsp;
 <img src="https://img.shields.io/badge/Ex--AI%2FML%20Engineer-Rezolve%20AI-666666?style=flat-square&labelColor=1a0a00" />
 </div>
